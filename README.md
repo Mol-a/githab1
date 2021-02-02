@@ -2,5 +2,5 @@
 
 1 Mila
 
-Mila_Otradnova
+Mila
 
